@@ -1,2 +1,1 @@
-# curefly-global
-CureFly Global – NABH Hospital Finder
+CureFly Global website placeholder
